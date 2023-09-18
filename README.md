@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Negron Garcia</h1>
-<h3 align="center">I am searching for an oportunity as Frontend Developer, I know that I can be a great plus to any business with the experience that I had developed until now with tools as Html, Css, Javascript, React ,Sass, Tailwind, Figma, Git and GitHub.
-
-I am very discipline and passionate with everything I do. I am looking for a passionate team from which I can learn and get thru lots of great challenges.
-
-
+<h3 align="center">I am looking for an opportunity as a Frontend Developer, a position to which I know I can contribute a lot thanks to the experiences I have acquired in my projects.
+ 
+  I am a disciplined person and passionate in everything I do. I am looking to surround myself with a passionate team from whom I can learn a lot and together we can achieve a satisfactory result.
 - 🌱 I’m currently learning **JS and React**
 
 - 📫 How to reach me **josuefrontend@gmail.com**
